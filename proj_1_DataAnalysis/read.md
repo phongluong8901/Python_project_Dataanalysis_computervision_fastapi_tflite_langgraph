@@ -7,6 +7,11 @@ pip install xgboost
 pip install scikit-learn
 
 # --- run
+---
 cd projproj_1_DataAnalysis
 cd Insurance_claims_predition
+streamlit run app.py
+
+---
+cd proj_1_DataAnalysis\spam_email_detection
 streamlit run app.py
