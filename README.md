@@ -20,3 +20,9 @@
 
 <img width="1000" height="951" alt="image" src="https://github.com/user-attachments/assets/bff0eb62-650c-4b82-a4ed-6e3432f1e25c" />
 <img width="998" height="962" alt="image" src="https://github.com/user-attachments/assets/42c4614e-43a6-4f8e-bdf3-bfb50a1fc386" />
+
+6. Credit Risk
+
+<img width="1002" height="928" alt="image" src="https://github.com/user-attachments/assets/5223269d-1466-414f-aaf0-4a8c30000b4b" />
+<img width="1006" height="938" alt="image" src="https://github.com/user-attachments/assets/fa530b2d-ce8e-4a7e-bb95-ba2c3a35929b" />
+
