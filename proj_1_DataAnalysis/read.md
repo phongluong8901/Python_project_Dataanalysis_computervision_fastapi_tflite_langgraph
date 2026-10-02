@@ -18,3 +18,7 @@ streamlit run app.py
 
 --- cd proj_1_DataAnalysis\predict_hotel_booking_calcellations
 py -3.13 -m streamlit run app.py
+
+--- 
+cd proj_1_DataAnalysis\demand_forecasting
+streamlit run app.py
