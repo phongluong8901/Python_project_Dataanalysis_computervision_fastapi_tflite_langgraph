@@ -30,3 +30,7 @@ streamlit run app.py
 ---
 cd proj_1_DataAnalysis\credit_risk
 streamlit run app.py
+
+---
+cd proj_1_DataAnalysis\customer_segmentation
+streamlit run app.py
