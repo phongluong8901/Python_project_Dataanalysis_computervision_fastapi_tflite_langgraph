@@ -1,4 +1,4 @@
-1. Insurance claims prediction
+<img width="964" height="948" alt="image" src="https://github.com/user-attachments/assets/9f80a564-04b6-4fc4-99ea-6c0cc9eba9ef" />1. Insurance claims prediction
 
 <img width="1840" height="860" alt="image" src="https://github.com/user-attachments/assets/7909f9f2-de8a-4657-9eaa-044be3c1951f" />
 
@@ -9,3 +9,8 @@
 3. Predict hotel booking cancellation
    
 <img width="1004" height="817" alt="image" src="https://github.com/user-attachments/assets/5c36fa45-fd7d-4618-bebf-fefa136b09f9" />
+
+4. Demand ForeCasting model
+
+<img width="964" height="948" alt="image" src="https://github.com/user-attachments/assets/3ab73495-6ea0-4bca-a6dd-b327546c6021" />
+<img width="890" height="841" alt="image" src="https://github.com/user-attachments/assets/2a1e4e1d-2093-4f84-beeb-488a98913c30" />
