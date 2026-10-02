@@ -26,3 +26,7 @@ streamlit run app.py
 ---
 cd proj_1_DataAnalysis\predict_health_insurance_costs
 streamlit run app.py
+
+---
+cd proj_1_DataAnalysis\credit_risk
+streamlit run app.py
