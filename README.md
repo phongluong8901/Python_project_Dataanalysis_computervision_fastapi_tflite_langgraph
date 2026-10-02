@@ -26,3 +26,8 @@
 <img width="1002" height="928" alt="image" src="https://github.com/user-attachments/assets/5223269d-1466-414f-aaf0-4a8c30000b4b" />
 <img width="1006" height="938" alt="image" src="https://github.com/user-attachments/assets/fa530b2d-ce8e-4a7e-bb95-ba2c3a35929b" />
 
+7. Customer segmentation
+
+<img width="987" height="947" alt="image" src="https://github.com/user-attachments/assets/1c96b5d6-c569-42f3-beed-493576cb013f" />
+<img width="973" height="918" alt="image" src="https://github.com/user-attachments/assets/f7c72353-6084-4c13-9b43-152b74a8afa3" />
+
