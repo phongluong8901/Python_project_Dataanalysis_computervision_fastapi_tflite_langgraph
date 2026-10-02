@@ -1,4 +1,5 @@
-<img width="964" height="948" alt="image" src="https://github.com/user-attachments/assets/9f80a564-04b6-4fc4-99ea-6c0cc9eba9ef" />1. Insurance claims prediction
+
+1. Insurance claims prediction
 
 <img width="1840" height="860" alt="image" src="https://github.com/user-attachments/assets/7909f9f2-de8a-4657-9eaa-044be3c1951f" />
 
