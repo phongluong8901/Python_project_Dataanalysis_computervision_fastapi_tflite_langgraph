@@ -40,4 +40,9 @@
 <img width="1025" height="695" alt="image" src="https://github.com/user-attachments/assets/81c499ad-2cc4-409e-b57a-276d26c1d5b1" />
 <img width="1002" height="923" alt="image" src="https://github.com/user-attachments/assets/7dee1c30-0274-4430-ba2b-ebdd0ed770d8" />
 
+10. fraud detection
+    
+<img width="995" height="869" alt="image" src="https://github.com/user-attachments/assets/cc61c92f-f883-4e3b-a46f-f70d6d2704c9" />
+<img width="1016" height="797" alt="image" src="https://github.com/user-attachments/assets/a8ccfc41-0cce-4781-be76-e98afa7ad739" />
+
 
