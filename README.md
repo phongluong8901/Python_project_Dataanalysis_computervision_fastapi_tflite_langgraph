@@ -45,4 +45,8 @@
 <img width="995" height="869" alt="image" src="https://github.com/user-attachments/assets/cc61c92f-f883-4e3b-a46f-f70d6d2704c9" />
 <img width="1016" height="797" alt="image" src="https://github.com/user-attachments/assets/a8ccfc41-0cce-4781-be76-e98afa7ad739" />
 
+11. Customer Churn Prediction
+
+<img width="1004" height="865" alt="image" src="https://github.com/user-attachments/assets/fe56f3af-3d1d-4d46-a5b0-aa7fe360efa7" />
+<img width="1011" height="872" alt="image" src="https://github.com/user-attachments/assets/89814933-dc6a-4a82-9566-aae0ab728702" />
 
