@@ -35,4 +35,9 @@
 
 <img width="1017" height="813" alt="image" src="https://github.com/user-attachments/assets/c2f7ef37-a3c2-470e-af21-fa4305acdad9" />
 
+9. Student Example Score Prediction
+
+<img width="1025" height="695" alt="image" src="https://github.com/user-attachments/assets/81c499ad-2cc4-409e-b57a-276d26c1d5b1" />
+<img width="1002" height="923" alt="image" src="https://github.com/user-attachments/assets/7dee1c30-0274-4430-ba2b-ebdd0ed770d8" />
+
 
