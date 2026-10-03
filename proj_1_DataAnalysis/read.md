@@ -46,3 +46,7 @@ streamlit run app.py
 ---
 cd proj_1_DataAnalysis\fraud_detection
 streamlit run app.py
+
+---
+cd proj_1_DataAnalysis\customer_churn_prediction
+streamlit run app.py
