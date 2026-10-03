@@ -34,3 +34,7 @@ streamlit run app.py
 ---
 cd proj_1_DataAnalysis\customer_segmentation
 streamlit run app.py
+
+---
+cd proj_1_DataAnalysis\image_classification
+streamlit run app.py
