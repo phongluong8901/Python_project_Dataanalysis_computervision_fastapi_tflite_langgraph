@@ -38,3 +38,7 @@ streamlit run app.py
 ---
 cd proj_1_DataAnalysis\image_classification
 streamlit run app.py
+
+---
+cd proj_1_DataAnalysis\student_exam_scores_predict
+streamlit run app.py
