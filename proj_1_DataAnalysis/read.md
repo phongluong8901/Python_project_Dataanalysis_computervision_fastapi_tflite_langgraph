@@ -42,3 +42,7 @@ streamlit run app.py
 ---
 cd proj_1_DataAnalysis\student_exam_scores_predict
 streamlit run app.py
+
+---
+cd proj_1_DataAnalysis\fraud_detection
+streamlit run app.py
