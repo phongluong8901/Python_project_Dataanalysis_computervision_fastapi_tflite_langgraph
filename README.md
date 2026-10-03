@@ -31,3 +31,8 @@
 <img width="987" height="947" alt="image" src="https://github.com/user-attachments/assets/1c96b5d6-c569-42f3-beed-493576cb013f" />
 <img width="973" height="918" alt="image" src="https://github.com/user-attachments/assets/f7c72353-6084-4c13-9b43-152b74a8afa3" />
 
+8. image classification tree
+
+<img width="1017" height="813" alt="image" src="https://github.com/user-attachments/assets/c2f7ef37-a3c2-470e-af21-fa4305acdad9" />
+
+
